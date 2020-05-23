@@ -4,7 +4,7 @@
   <remote  name="cm"
            fetch="git://github.com/CyanogenMod"
            review="review.cyanogenmod.org"
-           revision="refs/heads/cm-13.0" />
+           revision="refs/heads/cm-14.1" />
 
   <remote  name="twrp"
            fetch="git://github.com/TeamWin"
@@ -72,7 +72,7 @@
   <project name="android_device_emulator_twrpx8664" remote="twrp" />
 
   <!-- omnirom -->
-  <project path="external/lz4" name="android_external_lz4" remote="omnirom" revision="android-6.0" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/lz4" name="android_external_lz4" remote="omnirom" revision="android-7.1" groups="pdk-cw-fs,pdk-fs" />
 
   <!-- from original Android repositories -->
 
